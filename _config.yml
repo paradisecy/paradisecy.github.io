@@ -45,7 +45,7 @@ linkedin_username: andreas-paradisiotis-871a9767
 
 # About Section
 # about_title: About Me
-about_profile_image: images/my.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Software architect with 12+ years professional expertise with <mark>C#</mark> <mark>Python</mark> <mark>TypeScript</mark> <mark>Go</mark> <mark>C++</mark> <mark>Java</mark> <mark>Rust</mark> <mark>JavaScript</mark> and <mark>SQL</mark>. 
   
