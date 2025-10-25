@@ -47,13 +47,13 @@ linkedin_username: andreas-paradisiotis-871a9767
 # about_title: About Me
 about_profile_image: images/my.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Software architect with 12+ years professional expertise with <mark>C#</mark> <mark>Python</mark> <mark>C++</mark> <mark>C</mark> <mark>Java</mark> <mark>Scala</mark> <mark>ABAP</mark> <mark>JavaScript</mark> and <mark>SQL</mark>. 
+  Software architect with 12+ years professional expertise with <mark>C#</mark> <mark>Python</mark> <mark>TypeScript</mark> <mark>Go</mark> <mark>C++</mark> <mark>Java</mark> <mark>Rust</mark> <mark>JavaScript</mark> and <mark>SQL</mark>. 
   
-  Strong engineering professional focused on distributed technologies, data wrangling and machine learning. 
+  Strong engineering professional focused on distributed high-load systems, cloud infrastructure, and scalable microservices with AI/ML integration.
   
-  Skilled in <mark>AWS</mark> <mark>Azure</mark> <mark>GCP</mark> <mark>Linode</mark> clouds.
+  Skilled in <mark>AWS</mark> <mark>Azure</mark> <mark>GCP</mark> <mark>Linode</mark> <mark>Hetzner</mark> clouds with expertise in <mark>Docker</mark> <mark>Kubernetes</mark> <mark>PostgreSQL</mark> <mark>Redis</mark> <mark>Kafka</mark>.
   
-  Seeking for opportunities where using distributed computing tech and the latest development technologies and methodologies which can satisfy the most demanding projects.
+  Experienced in building production systems with modern tech stack including containerization, orchestration, observability, and performance tuning.
   
   Supporter and contributor of the open-source community and the open code mindset.
 
@@ -100,7 +100,7 @@ content:
             
            - Working heavily with AWS cloud services.
       - layout: left
-        title: Co-Founder and Owner
+        title: Co-Founder & Owner
         link: /
         link_text: |
              <img src="images/agrosoft.png" width="100px" /> 
@@ -113,7 +113,7 @@ content:
           - Partner of Soft1 in Cyprus
           - Industrial & IoT solutions and analytics services
       - layout: left
-        title: Senior Software Architect                       
+        title: Software Architect                       
         link: paradisiotis.com
         link_text: |
              <img src="images/para.png" width="70px" /> 
@@ -174,7 +174,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Design, implementation, testing, deployment and maintenance of applications for the shipping industry.
       - layout: left
-        title: SAP ABAP Developer / Administrator                    
+        title: Software Developer                    
         link: paradisiotis.com
         link_text: |
              <img src="images/para.png" width="70px" /> 
@@ -186,7 +186,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Responsible for the design, development and customization of a wide range of SAP solutions
       - layout: left
-        title: Intership                   
+        title: Internship                   
         link: cyta.com.cy
         link_text: |
              <img src="images/cyta.png" width="40px" /> 
